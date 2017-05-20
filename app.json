@@ -1,0 +1,6 @@
+{
+  "name": "NomadServiceExamples",
+  "description": "NomadServiceExamples. First is Webhook echo sample",
+  "repository": "https://github.com/KevinMlps/NomadServiceExamples.git",
+  "keywords": ["api.ai", "natural language"]
+}
