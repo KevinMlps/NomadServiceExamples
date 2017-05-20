@@ -1,5 +1,6 @@
+// @ts-check
 'use strict';
-// test version
+
 const express = require('express');
 const bodyParser = require('body-parser');
 
